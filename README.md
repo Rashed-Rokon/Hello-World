@@ -1,4 +1,2 @@
 # Hello-World
-That's one small step for making a repository but one giant leap for the love of programming.
-I was haivng the passion to be a good programmer for long and at last I got my right motivations that I was waiting for. 
-From this point, there is nothing that can stop me to make my dream come true for being a programmer. I will speak the language of millions of other programmers around the world. 
+This is a small step towards creating a repository, but it feels like a giant leap in my journey of programming. I've harbored a deep passion for becoming a skilled programmer for a long time, and finally, I've found the motivation I've been seeking. From this point forward, nothing can deter me from realizing my dream of becoming a programmer. I'm now ready to join the ranks of millions of programmers around the world.
